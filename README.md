@@ -18,9 +18,24 @@ You can find a table of provided audio tracks below. Also provided are their loo
 |Track Name|Loop Start|Loop End|
 |-----|-----|-----|
 |Title Screen|N/A|N/A|
-|Title Screen|N/A|N/A|
-|Title Screen|N/A|N/A|
-|Title Screen|N/A|N/A|
+|Green Hill Zone|764,587|2,610,055|
+|Marble Zone|162,725|1,891,405|
+|Spring Yard Zone|110,063|1,954,099|
+|Labyrinth Zone|194,632|1,854,250|
+|Star Light Zone|150,396|2,178,125|
+|Scrap Brain Zone|73,233|3,530,340|
+|Boss|103,371|1,127,678|
+|Final Zone|116,354|1,038,225|
+|Act Clear|N/A|N/A|
+|Invincibility|53,949|580,311|
+|Extra Life / Coin|N/A|N/A|
+|Special Stage|65,576|1,646,097|
+|Game Over|N/A|N/A|
+|Continue|N/A|N/A|
+|All Clear|N/A|N/A|
+|Staff Roll|N/A|N/A|
+|Chaos Emerald|N/A|N/A|
+|Drowning|N/A|N/A|
 
 #### Sonic the Hedgehog 2
 
