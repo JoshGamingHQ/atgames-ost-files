@@ -155,7 +155,7 @@ You can find a table of provided audio tracks below. Also provided are their loo
 |Track Name|Loop Start|Loop End|
 |-----|-----|-----|
 |Carnival Night Zone ~ Redux: Act 1 [^2]|N/A|N/A|
-|Carnival Night Zone ~ Redux: Act 2 [^2]|N/A|N/A|
+|Carnival Night Zone ~ Redux: Act 2|N/A|N/A|
 |Ice Cap Zone ~ Redux: Act 1 [^2]|N/A|N/A|
 |Ice Cap Zone ~ Redux: Act 2 [^2]|N/A|N/A|
 |Launch Base Zone ~ Redux: Act 1 [^2]|N/A|N/A|
@@ -165,13 +165,13 @@ You can find a table of provided audio tracks below. Also provided are their loo
 ---
 
 Check out other content at these pages:
-+ [YouTube](https://www.youtube.com/)
-+ [Twitch](https://www.twitch.tv/)
++ [YouTube](https://www.youtube.com/channel/UC8jNJtv3ksXAZ5xvljM5wqQ)
++ [Twitch](https://www.twitch.tv/jghqlive)
 + [Twitter](https://www.twitter.com/JoshGamingHQ)
 + [Newgrounds](https://jghq.newgrounds.com/)
-+ [GameJolt](https://www.gamejolt.com/)
-+ [GameBanana](https://www.gamebanana.com/)
++ [GameJolt](https://gamejolt.com/@joshgaminghq)
++ [GameBanana](https://gamebanana.com/members/1768033)
 
-[^1]: Sonic 3 Complete is a modified ROM of Sonic the Hedgehog 3 & Knuckles, unifying the game with some quality of life improvements. Music used was converted into Genesis format by ValleyBell.
-[^2]: Remixes created by John Tay. Channel [here.](https://www.youtube.com/c/JohnTayMusicOrSomethingLikeThat)
+[^1]: Sonic 3 Complete is a modified ROM of Sonic the Hedgehog 3 & Knuckles, unifying the game with some quality of life improvements. Check it out [here.](https://www.s3complete.org/) Music used was converted into Genesis format by ValleyBell.
+[^2]: Remixes created by [John Tay.](https://www.youtube.com/c/JohnTayMusicOrSomethingLikeThat)
 [^3]: Remix created by Mr_Shoemonster. Listen by clicking [here.](https://www.youtube.com/watch?v=pMAzkhdcauE)
